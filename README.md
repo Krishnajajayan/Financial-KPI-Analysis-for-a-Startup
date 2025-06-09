@@ -1,6 +1,5 @@
-#  Startup Financial KPI Dashboard
-
-**Project Title:** Financial KPI Analysis for a Startup  
+#  Financial KPI Analysis for a Startup
+  
 **Tools Used:** Power BI, Python (Pandas), Excel  
 **Domain:** Finance, Startups, Business Analytics
 
